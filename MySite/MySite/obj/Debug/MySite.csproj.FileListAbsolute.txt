@@ -32,3 +32,37 @@ D:\Study\Project\C#\Project\MySite\MySite\obj\Debug\MySite.dll
 D:\Study\Project\C#\Project\MySite\MySite\obj\Debug\MySite.pdb
 D:\Study\Project\C#\Project\MySite\MySite\bin\ClassLibrary.dll
 D:\Study\Project\C#\Project\MySite\MySite\bin\ClassLibrary.pdb
+D:\Study\MySite Project\Git\MySite\MySite\bin\MySite.dll.config
+D:\Study\MySite Project\Git\MySite\MySite\bin\MySite.dll
+D:\Study\MySite Project\Git\MySite\MySite\bin\MySite.pdb
+D:\Study\MySite Project\Git\MySite\MySite\bin\Antlr3.Runtime.dll
+D:\Study\MySite Project\Git\MySite\MySite\bin\ClassLibrary.dll
+D:\Study\MySite Project\Git\MySite\MySite\bin\Microsoft.Web.Infrastructure.dll
+D:\Study\MySite Project\Git\MySite\MySite\bin\Newtonsoft.Json.dll
+D:\Study\MySite Project\Git\MySite\MySite\bin\System.Web.Helpers.dll
+D:\Study\MySite Project\Git\MySite\MySite\bin\System.Web.Mvc.dll
+D:\Study\MySite Project\Git\MySite\MySite\bin\System.Web.Optimization.dll
+D:\Study\MySite Project\Git\MySite\MySite\bin\System.Web.Razor.dll
+D:\Study\MySite Project\Git\MySite\MySite\bin\System.Web.WebPages.Deployment.dll
+D:\Study\MySite Project\Git\MySite\MySite\bin\System.Web.WebPages.dll
+D:\Study\MySite Project\Git\MySite\MySite\bin\System.Web.WebPages.Razor.dll
+D:\Study\MySite Project\Git\MySite\MySite\bin\WebGrease.dll
+D:\Study\MySite Project\Git\MySite\MySite\bin\ClassLibrary.pdb
+D:\Study\MySite Project\Git\MySite\MySite\bin\System.Web.Helpers.xml
+D:\Study\MySite Project\Git\MySite\MySite\bin\System.Web.Mvc.xml
+D:\Study\MySite Project\Git\MySite\MySite\bin\System.Web.Razor.xml
+D:\Study\MySite Project\Git\MySite\MySite\bin\System.Web.WebPages.xml
+D:\Study\MySite Project\Git\MySite\MySite\bin\System.Web.WebPages.Deployment.xml
+D:\Study\MySite Project\Git\MySite\MySite\bin\System.Web.WebPages.Razor.xml
+D:\Study\MySite Project\Git\MySite\MySite\bin\System.Web.Optimization.xml
+D:\Study\MySite Project\Git\MySite\MySite\bin\Newtonsoft.Json.xml
+D:\Study\MySite Project\Git\MySite\MySite\bin\Antlr3.Runtime.pdb
+D:\Study\MySite Project\Git\MySite\MySite\bin\ru\System.Web.Helpers.resources.dll
+D:\Study\MySite Project\Git\MySite\MySite\bin\ru\System.Web.Mvc.resources.dll
+D:\Study\MySite Project\Git\MySite\MySite\bin\ru\System.Web.Razor.resources.dll
+D:\Study\MySite Project\Git\MySite\MySite\bin\ru\System.Web.WebPages.resources.dll
+D:\Study\MySite Project\Git\MySite\MySite\bin\ru\System.Web.WebPages.Deployment.resources.dll
+D:\Study\MySite Project\Git\MySite\MySite\bin\ru\System.Web.WebPages.Razor.resources.dll
+D:\Study\MySite Project\Git\MySite\MySite\obj\Debug\MySite.csprojResolveAssemblyReference.cache
+D:\Study\MySite Project\Git\MySite\MySite\obj\Debug\MySite.dll
+D:\Study\MySite Project\Git\MySite\MySite\obj\Debug\MySite.pdb

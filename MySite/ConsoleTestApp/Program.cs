@@ -1,0 +1,28 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+using ClassLibrary.Class;
+using ClassLibrary;
+
+namespace ConsoleTestApp
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            RateLib rate = new RateLib();
+            rate.Currency = "USD";
+            rate.Date = DateTime.Today;
+            rate.Value = 68.9;
+            DateTime date = new DateTime();
+            date = DateTime.Today;
+            Console.WriteLine(date.ToString("dd'/'MM'/'yyyy"));
+            List<RateLib> rates = new List<RateLib>();
+            rates = LibraryRate.getDailyExchange(DateTime.Today);
+            Console.ReadKey();
+        }
+
+    }
+}

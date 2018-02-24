@@ -1,0 +1,30 @@
+﻿@model IEnumerable<MySite.Models.Rate>
+
+@{
+    ViewBag.Title = "Курс валют на ";
+}
+
+<h2>Курс валют за @ViewBag.Date</h2>
+
+<table class="table">
+    <tr>
+        <th>
+            Валюта
+        </th>
+        <th>
+            Курс
+        </th>
+        <th></th>
+    </tr>
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.Currency)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Value)
+            </td>
+        </tr>
+    }
+</table>

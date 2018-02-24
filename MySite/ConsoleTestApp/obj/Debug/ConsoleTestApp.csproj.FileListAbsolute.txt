@@ -25,3 +25,43 @@ D:\Study\Project\C#\Project\MySite\ConsoleTestApp\obj\Debug\ConsoleTestApp.exe
 D:\Study\Project\C#\Project\MySite\ConsoleTestApp\obj\Debug\ConsoleTestApp.pdb
 D:\Study\Project\C#\Project\MySite\ConsoleTestApp\bin\Debug\ClassLibrary.dll
 D:\Study\Project\C#\Project\MySite\ConsoleTestApp\bin\Debug\ClassLibrary.pdb
+D:\Study\MySite Project\Git\MySite\ConsoleTestApp\bin\Debug\ConsoleTestApp.exe.config
+D:\Study\MySite Project\Git\MySite\ConsoleTestApp\obj\Debug\ConsoleTestApp.exe
+D:\Study\MySite Project\Git\MySite\ConsoleTestApp\obj\Debug\ConsoleTestApp.pdb
+D:\Study\MySite Project\Git\MySite\ConsoleTestApp\obj\Debug\ConsoleTestApp.csprojResolveAssemblyReference.cache
+D:\Study\MySite Project\Git\MySite\ConsoleTestApp\bin\Debug\ConsoleTestApp.exe
+D:\Study\MySite Project\Git\MySite\ConsoleTestApp\bin\Debug\ConsoleTestApp.pdb
+D:\Study\MySite Project\Git\MySite\ConsoleTestApp\bin\Debug\ClassLibrary.dll
+D:\Study\MySite Project\Git\MySite\ConsoleTestApp\bin\Debug\DataGetLibrary.dll
+D:\Study\MySite Project\Git\MySite\ConsoleTestApp\bin\Debug\EntityFramework.dll
+D:\Study\MySite Project\Git\MySite\ConsoleTestApp\bin\Debug\EntityFramework.SqlServer.dll
+D:\Study\MySite Project\Git\MySite\ConsoleTestApp\bin\Debug\MySite.dll
+D:\Study\MySite Project\Git\MySite\ConsoleTestApp\bin\Debug\System.Web.Mvc.dll
+D:\Study\MySite Project\Git\MySite\ConsoleTestApp\bin\Debug\System.Web.Optimization.dll
+D:\Study\MySite Project\Git\MySite\ConsoleTestApp\bin\Debug\System.Web.WebPages.dll
+D:\Study\MySite Project\Git\MySite\ConsoleTestApp\bin\Debug\System.Web.WebPages.Razor.dll
+D:\Study\MySite Project\Git\MySite\ConsoleTestApp\bin\Debug\System.Web.Razor.dll
+D:\Study\MySite Project\Git\MySite\ConsoleTestApp\bin\Debug\WebGrease.dll
+D:\Study\MySite Project\Git\MySite\ConsoleTestApp\bin\Debug\System.Web.WebPages.Deployment.dll
+D:\Study\MySite Project\Git\MySite\ConsoleTestApp\bin\Debug\Newtonsoft.Json.dll
+D:\Study\MySite Project\Git\MySite\ConsoleTestApp\bin\Debug\Antlr3.Runtime.dll
+D:\Study\MySite Project\Git\MySite\ConsoleTestApp\bin\Debug\ClassLibrary.pdb
+D:\Study\MySite Project\Git\MySite\ConsoleTestApp\bin\Debug\DataGetLibrary.pdb
+D:\Study\MySite Project\Git\MySite\ConsoleTestApp\bin\Debug\MySite.pdb
+D:\Study\MySite Project\Git\MySite\ConsoleTestApp\bin\Debug\EntityFramework.xml
+D:\Study\MySite Project\Git\MySite\ConsoleTestApp\bin\Debug\EntityFramework.SqlServer.xml
+D:\Study\MySite Project\Git\MySite\ConsoleTestApp\bin\Debug\System.Web.Mvc.xml
+D:\Study\MySite Project\Git\MySite\ConsoleTestApp\bin\Debug\System.Web.Optimization.xml
+D:\Study\MySite Project\Git\MySite\ConsoleTestApp\bin\Debug\System.Web.WebPages.xml
+D:\Study\MySite Project\Git\MySite\ConsoleTestApp\bin\Debug\System.Web.WebPages.Razor.xml
+D:\Study\MySite Project\Git\MySite\ConsoleTestApp\bin\Debug\System.Web.Razor.xml
+D:\Study\MySite Project\Git\MySite\ConsoleTestApp\bin\Debug\System.Web.WebPages.Deployment.xml
+D:\Study\MySite Project\Git\MySite\ConsoleTestApp\bin\Debug\Newtonsoft.Json.xml
+D:\Study\MySite Project\Git\MySite\ConsoleTestApp\bin\Debug\Antlr3.Runtime.pdb
+D:\Study\MySite Project\Git\MySite\ConsoleTestApp\bin\Debug\ru\System.Web.Mvc.resources.dll
+D:\Study\MySite Project\Git\MySite\ConsoleTestApp\bin\Debug\ru\System.Web.WebPages.resources.dll
+D:\Study\MySite Project\Git\MySite\ConsoleTestApp\bin\Debug\ru\System.Web.WebPages.Razor.resources.dll
+D:\Study\MySite Project\Git\MySite\ConsoleTestApp\bin\Debug\ru\System.Web.Razor.resources.dll
+D:\Study\MySite Project\Git\MySite\ConsoleTestApp\bin\Debug\ru\System.Web.WebPages.Deployment.resources.dll
+D:\Study\MySite Project\Git\MySite\ConsoleTestApp\bin\Debug\Database.mdf
+D:\Study\MySite Project\Git\MySite\ConsoleTestApp\bin\Debug\Database_log.ldf

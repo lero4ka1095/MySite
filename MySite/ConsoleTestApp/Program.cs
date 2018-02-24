@@ -5,6 +5,9 @@ using System.Text;
 using System.Threading.Tasks;
 using ClassLibrary.Class;
 using ClassLibrary;
+using DataGetLibrary;
+using DataGetLibrary.Models;
+using System.Data.Entity;
 
 namespace ConsoleTestApp
 {
@@ -12,7 +15,7 @@ namespace ConsoleTestApp
     {
         static void Main(string[] args)
         {
-            RateLib rate = new RateLib();
+            /*RateLib rate = new RateLib();
             rate.Currency = "USD";
             rate.Date = DateTime.Today;
             rate.Value = 68.9;
@@ -20,8 +23,30 @@ namespace ConsoleTestApp
             date = DateTime.Today;
             Console.WriteLine(date.ToString("dd'/'MM'/'yyyy"));
             List<RateLib> rates = new List<RateLib>();
-            rates = LibraryRate.getDailyExchange(DateTime.Today);
+            rates = LibraryRate.getDailyExchange(DateTime.Today);*/
+
+            DBaseContext db = new DBaseContext();
+            Console.WriteLine("1");
+            try
+            {
+                
+            }
+            catch(Exception ex)
+            {
+                Console.WriteLine(ex.Message);
+            }
+            //db.Currency.Add(new Currency("USD", "USD"));
+            db.SaveChanges();
+            Console.WriteLine("2");
+            IEnumerable<Currency> b = db.Currency;
+            List<Currency> list = b.ToList<Currency>();
+            Console.WriteLine("3");
+            Console.WriteLine(list.Count);
+            Console.WriteLine(list[0].IdCurrency);
+            Console.WriteLine("4");
             Console.ReadKey();
+
+
         }
 
     }

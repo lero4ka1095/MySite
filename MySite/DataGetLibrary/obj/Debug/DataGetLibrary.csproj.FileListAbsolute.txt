@@ -1,0 +1,12 @@
+D:\Study\MySite Project\Git\MySite\DataGetLibrary\obj\Debug\DataGetLibrary.csprojResolveAssemblyReference.cache
+D:\Study\MySite Project\Git\MySite\DataGetLibrary\bin\Debug\DataGetLibrary.dll.config
+D:\Study\MySite Project\Git\MySite\DataGetLibrary\bin\Debug\DataGetLibrary.dll
+D:\Study\MySite Project\Git\MySite\DataGetLibrary\bin\Debug\DataGetLibrary.pdb
+D:\Study\MySite Project\Git\MySite\DataGetLibrary\bin\Debug\EntityFramework.dll
+D:\Study\MySite Project\Git\MySite\DataGetLibrary\bin\Debug\EntityFramework.SqlServer.dll
+D:\Study\MySite Project\Git\MySite\DataGetLibrary\bin\Debug\EntityFramework.xml
+D:\Study\MySite Project\Git\MySite\DataGetLibrary\bin\Debug\EntityFramework.SqlServer.xml
+D:\Study\MySite Project\Git\MySite\DataGetLibrary\obj\Debug\DataGetLibrary.dll
+D:\Study\MySite Project\Git\MySite\DataGetLibrary\obj\Debug\DataGetLibrary.pdb
+D:\Study\MySite Project\Git\MySite\DataGetLibrary\bin\Debug\Database.mdf
+D:\Study\MySite Project\Git\MySite\DataGetLibrary\bin\Debug\Database_log.ldf

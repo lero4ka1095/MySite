@@ -35,14 +35,17 @@ namespace ConsoleTestApp
             {
                 Console.WriteLine(ex.Message);
             }
-            //db.Currency.Add(new Currency("USD", "USD"));
+            db.Currency.Add(new Currency("KGS", "KGS"));
             db.SaveChanges();
             Console.WriteLine("2");
             IEnumerable<Currency> b = db.Currency;
             List<Currency> list = b.ToList<Currency>();
             Console.WriteLine("3");
             Console.WriteLine(list.Count);
-            Console.WriteLine(list[0].IdCurrency);
+            foreach(Currency cur in list)
+            {
+                Console.WriteLine(cur.IdCurrency);
+            }
             Console.WriteLine("4");
             Console.ReadKey();
 

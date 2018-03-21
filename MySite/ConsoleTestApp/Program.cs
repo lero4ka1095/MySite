@@ -3,10 +3,8 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-using ClassLibrary.Class;
 using ClassLibrary;
 using DataGetLibrary;
-using DataGetLibrary.Models;
 using System.Data.Entity;
 
 namespace ConsoleTestApp
@@ -15,41 +13,18 @@ namespace ConsoleTestApp
     {
         static void Main(string[] args)
         {
-            /*RateLib rate = new RateLib();
-            rate.Currency = "USD";
-            rate.Date = DateTime.Today;
-            rate.Value = 68.9;
-            DateTime date = new DateTime();
-            date = DateTime.Today;
-            Console.WriteLine(date.ToString("dd'/'MM'/'yyyy"));
-            List<RateLib> rates = new List<RateLib>();
-            rates = LibraryRate.getDailyExchange(DateTime.Today);*/
-
-            DBaseContext db = new DBaseContext();
-            Console.WriteLine("1");
-            try
-            {
-                
-            }
-            catch(Exception ex)
-            {
-                Console.WriteLine(ex.Message);
-            }
-            db.Currency.Add(new Currency("KGS", "KGS"));
+            DatabaseContext db = new DatabaseContext();
+            User admin = db.Users.First();
+            User admin2 = new User("admin2", "admin2", "Administrator", DateTime.Parse("28.10.1995"),"A");
+            db.Users.Add(admin2);
             db.SaveChanges();
-            Console.WriteLine("2");
-            IEnumerable<Currency> b = db.Currency;
-            List<Currency> list = b.ToList<Currency>();
-            Console.WriteLine("3");
-            Console.WriteLine(list.Count);
-            foreach(Currency cur in list)
-            {
-                Console.WriteLine(cur.IdCurrency);
-            }
-            Console.WriteLine("4");
+            admin2 = db.Users.Where(a => a.login == "admin2").First();
+            Note note = db.Notes.First();
+            Commentary com = new Commentary("CommentaryTextTest", admin2, note);
+            db.Commentaries.Add(com);
+            db.SaveChanges();
+            Console.WriteLine("Ok");
             Console.ReadKey();
-
-
         }
 
     }

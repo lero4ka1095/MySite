@@ -57,12 +57,108 @@ D:\Study\MySite Project\Git\MySite\MySite\bin\System.Web.WebPages.Razor.xml
 D:\Study\MySite Project\Git\MySite\MySite\bin\System.Web.Optimization.xml
 D:\Study\MySite Project\Git\MySite\MySite\bin\Newtonsoft.Json.xml
 D:\Study\MySite Project\Git\MySite\MySite\bin\Antlr3.Runtime.pdb
-D:\Study\MySite Project\Git\MySite\MySite\bin\ru\System.Web.Helpers.resources.dll
-D:\Study\MySite Project\Git\MySite\MySite\bin\ru\System.Web.Mvc.resources.dll
-D:\Study\MySite Project\Git\MySite\MySite\bin\ru\System.Web.Razor.resources.dll
-D:\Study\MySite Project\Git\MySite\MySite\bin\ru\System.Web.WebPages.resources.dll
-D:\Study\MySite Project\Git\MySite\MySite\bin\ru\System.Web.WebPages.Deployment.resources.dll
-D:\Study\MySite Project\Git\MySite\MySite\bin\ru\System.Web.WebPages.Razor.resources.dll
 D:\Study\MySite Project\Git\MySite\MySite\obj\Debug\MySite.csprojResolveAssemblyReference.cache
 D:\Study\MySite Project\Git\MySite\MySite\obj\Debug\MySite.dll
 D:\Study\MySite Project\Git\MySite\MySite\obj\Debug\MySite.pdb
+C:\Users\ValeriiaS\Desktop\MySite-Develop\MySite\MySite\obj\Debug\MySite.csprojResolveAssemblyReference.cache
+C:\Users\ValeriiaS\Desktop\MySite-Develop\MySite\MySite\bin\MySite.dll.config
+C:\Users\ValeriiaS\Desktop\MySite-Develop\MySite\MySite\bin\MySite.dll
+C:\Users\ValeriiaS\Desktop\MySite-Develop\MySite\MySite\bin\MySite.pdb
+C:\Users\ValeriiaS\Desktop\MySite-Develop\MySite\MySite\bin\Antlr3.Runtime.dll
+C:\Users\ValeriiaS\Desktop\MySite-Develop\MySite\MySite\bin\ClassLibrary.dll
+C:\Users\ValeriiaS\Desktop\MySite-Develop\MySite\MySite\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\ValeriiaS\Desktop\MySite-Develop\MySite\MySite\bin\Newtonsoft.Json.dll
+C:\Users\ValeriiaS\Desktop\MySite-Develop\MySite\MySite\bin\System.Web.Mvc.dll
+C:\Users\ValeriiaS\Desktop\MySite-Develop\MySite\MySite\bin\System.Web.Optimization.dll
+C:\Users\ValeriiaS\Desktop\MySite-Develop\MySite\MySite\bin\WebGrease.dll
+C:\Users\ValeriiaS\Desktop\MySite-Develop\MySite\MySite\bin\ClassLibrary.pdb
+C:\Users\ValeriiaS\Desktop\MySite-Develop\MySite\MySite\bin\Antlr3.Runtime.pdb
+C:\Users\ValeriiaS\Desktop\MySite-Develop\MySite\MySite\bin\Newtonsoft.Json.xml
+C:\Users\ValeriiaS\Desktop\MySite-Develop\MySite\MySite\bin\System.Web.Mvc.xml
+C:\Users\ValeriiaS\Desktop\MySite-Develop\MySite\MySite\bin\System.Web.Optimization.xml
+C:\Users\ValeriiaS\Desktop\MySite-Develop\MySite\MySite\obj\Debug\MySite.dll
+C:\Users\ValeriiaS\Desktop\MySite-Develop\MySite\MySite\obj\Debug\MySite.pdb
+C:\Users\ValeriiaS\Desktop\MySite-Develop\MySite\MySite\bin\System.Web.Helpers.dll
+C:\Users\ValeriiaS\Desktop\MySite-Develop\MySite\MySite\bin\System.Web.Razor.dll
+C:\Users\ValeriiaS\Desktop\MySite-Develop\MySite\MySite\bin\System.Web.WebPages.Deployment.dll
+C:\Users\ValeriiaS\Desktop\MySite-Develop\MySite\MySite\bin\System.Web.WebPages.dll
+C:\Users\ValeriiaS\Desktop\MySite-Develop\MySite\MySite\bin\System.Web.WebPages.Razor.dll
+C:\Users\ValeriiaS\Desktop\MySite-Develop\MySite\MySite\bin\System.Web.Helpers.xml
+C:\Users\ValeriiaS\Desktop\MySite-Develop\MySite\MySite\bin\System.Web.Razor.xml
+C:\Users\ValeriiaS\Desktop\MySite-Develop\MySite\MySite\bin\System.Web.WebPages.xml
+C:\Users\ValeriiaS\Desktop\MySite-Develop\MySite\MySite\bin\System.Web.WebPages.Deployment.xml
+C:\Users\ValeriiaS\Desktop\MySite-Develop\MySite\MySite\bin\System.Web.WebPages.Razor.xml
+C:\Users\ValeriiaS\Desktop\MySite-Develop\MySite\MySite\bin\DataGetLibrary.dll
+C:\Users\ValeriiaS\Desktop\MySite-Develop\MySite\MySite\bin\EntityFramework.dll
+C:\Users\ValeriiaS\Desktop\MySite-Develop\MySite\MySite\bin\DataGetLibrary.pdb
+C:\Users\ValeriiaS\Desktop\MySite-Develop\MySite\MySite\bin\EntityFramework.xml
+D:\MySite-Develop\MySite\MySite\bin\Database.mdf
+D:\MySite-Develop\MySite\MySite\bin\Database_log.ldf
+D:\MySite-Develop\MySite\MySite\bin\MySite.dll.config
+D:\MySite-Develop\MySite\MySite\bin\MySite.dll
+D:\MySite-Develop\MySite\MySite\bin\MySite.pdb
+D:\MySite-Develop\MySite\MySite\bin\Antlr3.Runtime.dll
+D:\MySite-Develop\MySite\MySite\bin\ClassLibrary.dll
+D:\MySite-Develop\MySite\MySite\bin\DataGetLibrary.dll
+D:\MySite-Develop\MySite\MySite\bin\Microsoft.Web.Infrastructure.dll
+D:\MySite-Develop\MySite\MySite\bin\Newtonsoft.Json.dll
+D:\MySite-Develop\MySite\MySite\bin\System.Web.Helpers.dll
+D:\MySite-Develop\MySite\MySite\bin\System.Web.Mvc.dll
+D:\MySite-Develop\MySite\MySite\bin\System.Web.Optimization.dll
+D:\MySite-Develop\MySite\MySite\bin\System.Web.Razor.dll
+D:\MySite-Develop\MySite\MySite\bin\System.Web.WebPages.Deployment.dll
+D:\MySite-Develop\MySite\MySite\bin\System.Web.WebPages.dll
+D:\MySite-Develop\MySite\MySite\bin\System.Web.WebPages.Razor.dll
+D:\MySite-Develop\MySite\MySite\bin\WebGrease.dll
+D:\MySite-Develop\MySite\MySite\bin\EntityFramework.dll
+D:\MySite-Develop\MySite\MySite\bin\ClassLibrary.pdb
+D:\MySite-Develop\MySite\MySite\bin\DataGetLibrary.pdb
+D:\MySite-Develop\MySite\MySite\bin\Antlr3.Runtime.pdb
+D:\MySite-Develop\MySite\MySite\bin\Newtonsoft.Json.xml
+D:\MySite-Develop\MySite\MySite\bin\System.Web.Helpers.xml
+D:\MySite-Develop\MySite\MySite\bin\System.Web.Mvc.xml
+D:\MySite-Develop\MySite\MySite\bin\System.Web.Optimization.xml
+D:\MySite-Develop\MySite\MySite\bin\System.Web.Razor.xml
+D:\MySite-Develop\MySite\MySite\bin\System.Web.WebPages.xml
+D:\MySite-Develop\MySite\MySite\bin\System.Web.WebPages.Deployment.xml
+D:\MySite-Develop\MySite\MySite\bin\System.Web.WebPages.Razor.xml
+D:\MySite-Develop\MySite\MySite\bin\EntityFramework.xml
+D:\MySite-Develop\MySite\MySite\obj\Debug\MySite.csprojResolveAssemblyReference.cache
+D:\MySite-Develop\MySite\MySite\obj\Debug\MySite.dll
+D:\MySite-Develop\MySite\MySite\obj\Debug\MySite.pdb
+D:\Study\Projects\MySite\MySite\obj\Debug\MySite.csprojResolveAssemblyReference.cache
+D:\Study\Projects\MySite\MySite\obj\Debug\MySite.dll
+D:\Study\Projects\MySite\MySite\bin\MySite.dll.config
+D:\Study\Projects\MySite\MySite\bin\MySite.dll
+D:\Study\Projects\MySite\MySite\bin\MySite.pdb
+D:\Study\Projects\MySite\MySite\bin\Antlr3.Runtime.dll
+D:\Study\Projects\MySite\MySite\bin\ClassLibrary.dll
+D:\Study\Projects\MySite\MySite\bin\DataGetLibrary.dll
+D:\Study\Projects\MySite\MySite\bin\Microsoft.Web.Infrastructure.dll
+D:\Study\Projects\MySite\MySite\bin\Newtonsoft.Json.dll
+D:\Study\Projects\MySite\MySite\bin\System.Web.Helpers.dll
+D:\Study\Projects\MySite\MySite\bin\System.Web.Mvc.dll
+D:\Study\Projects\MySite\MySite\bin\System.Web.Optimization.dll
+D:\Study\Projects\MySite\MySite\bin\System.Web.Razor.dll
+D:\Study\Projects\MySite\MySite\bin\System.Web.WebPages.Deployment.dll
+D:\Study\Projects\MySite\MySite\bin\System.Web.WebPages.dll
+D:\Study\Projects\MySite\MySite\bin\System.Web.WebPages.Razor.dll
+D:\Study\Projects\MySite\MySite\bin\WebGrease.dll
+D:\Study\Projects\MySite\MySite\bin\EntityFramework.dll
+D:\Study\Projects\MySite\MySite\bin\ClassLibrary.pdb
+D:\Study\Projects\MySite\MySite\bin\DataGetLibrary.pdb
+D:\Study\Projects\MySite\MySite\bin\Antlr3.Runtime.pdb
+D:\Study\Projects\MySite\MySite\bin\Newtonsoft.Json.xml
+D:\Study\Projects\MySite\MySite\bin\System.Web.Helpers.xml
+D:\Study\Projects\MySite\MySite\bin\System.Web.Mvc.xml
+D:\Study\Projects\MySite\MySite\bin\System.Web.Optimization.xml
+D:\Study\Projects\MySite\MySite\bin\System.Web.Razor.xml
+D:\Study\Projects\MySite\MySite\bin\System.Web.WebPages.xml
+D:\Study\Projects\MySite\MySite\bin\System.Web.WebPages.Deployment.xml
+D:\Study\Projects\MySite\MySite\bin\System.Web.WebPages.Razor.xml
+D:\Study\Projects\MySite\MySite\bin\EntityFramework.xml
+D:\Study\Projects\MySite\MySite\obj\Debug\MySite.pdb
+D:\Study\MySite Project\Git\MySite\MySite\bin\DataGetLibrary.dll
+D:\Study\MySite Project\Git\MySite\MySite\bin\EntityFramework.dll
+D:\Study\MySite Project\Git\MySite\MySite\bin\DataGetLibrary.pdb
+D:\Study\MySite Project\Git\MySite\MySite\bin\EntityFramework.xml

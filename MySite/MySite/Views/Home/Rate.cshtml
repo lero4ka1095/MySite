@@ -1,8 +1,4 @@
-﻿@model IEnumerable<MySite.Models.Rate>
-
-@{
-    ViewBag.Title = "Курс валют на ";
-}
+﻿@model IEnumerable<DataGetLibrary.Rate>
 
 <h2>Курс валют за @ViewBag.Date</h2>
 
@@ -20,10 +16,10 @@
     {
         <tr>
             <td>
-                @Html.DisplayFor(modelItem => item.Currency)
+                @Html.DisplayFor(modelItem => item.Currency.CharCodeCurrency)
             </td>
             <td>
-                @Html.DisplayFor(modelItem => item.Value)
+                @item.getValue()
             </td>
         </tr>
     }

@@ -58,10 +58,71 @@ D:\Study\MySite Project\Git\MySite\ConsoleTestApp\bin\Debug\System.Web.Razor.xml
 D:\Study\MySite Project\Git\MySite\ConsoleTestApp\bin\Debug\System.Web.WebPages.Deployment.xml
 D:\Study\MySite Project\Git\MySite\ConsoleTestApp\bin\Debug\Newtonsoft.Json.xml
 D:\Study\MySite Project\Git\MySite\ConsoleTestApp\bin\Debug\Antlr3.Runtime.pdb
-D:\Study\MySite Project\Git\MySite\ConsoleTestApp\bin\Debug\ru\System.Web.Mvc.resources.dll
-D:\Study\MySite Project\Git\MySite\ConsoleTestApp\bin\Debug\ru\System.Web.WebPages.resources.dll
-D:\Study\MySite Project\Git\MySite\ConsoleTestApp\bin\Debug\ru\System.Web.WebPages.Razor.resources.dll
-D:\Study\MySite Project\Git\MySite\ConsoleTestApp\bin\Debug\ru\System.Web.Razor.resources.dll
-D:\Study\MySite Project\Git\MySite\ConsoleTestApp\bin\Debug\ru\System.Web.WebPages.Deployment.resources.dll
-D:\Study\MySite Project\Git\MySite\ConsoleTestApp\bin\Debug\Database.mdf
-D:\Study\MySite Project\Git\MySite\ConsoleTestApp\bin\Debug\Database_log.ldf
+C:\Users\ValeriiaS\Desktop\MySite-Develop\MySite\ConsoleTestApp\bin\Debug\ConsoleTestApp.exe.config
+C:\Users\ValeriiaS\Desktop\MySite-Develop\MySite\ConsoleTestApp\obj\Debug\ConsoleTestApp.csprojResolveAssemblyReference.cache
+C:\Users\ValeriiaS\Desktop\MySite-Develop\MySite\ConsoleTestApp\bin\Debug\Database.mdf
+C:\Users\ValeriiaS\Desktop\MySite-Develop\MySite\ConsoleTestApp\bin\Debug\Database_log.ldf
+C:\Users\ValeriiaS\Desktop\MySite-Develop\MySite\ConsoleTestApp\bin\Debug\ConsoleTestApp.exe
+C:\Users\ValeriiaS\Desktop\MySite-Develop\MySite\ConsoleTestApp\bin\Debug\ConsoleTestApp.pdb
+C:\Users\ValeriiaS\Desktop\MySite-Develop\MySite\ConsoleTestApp\bin\Debug\ClassLibrary.dll
+C:\Users\ValeriiaS\Desktop\MySite-Develop\MySite\ConsoleTestApp\bin\Debug\DataGetLibrary.dll
+C:\Users\ValeriiaS\Desktop\MySite-Develop\MySite\ConsoleTestApp\bin\Debug\EntityFramework.dll
+C:\Users\ValeriiaS\Desktop\MySite-Develop\MySite\ConsoleTestApp\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ValeriiaS\Desktop\MySite-Develop\MySite\ConsoleTestApp\bin\Debug\MySite.dll
+C:\Users\ValeriiaS\Desktop\MySite-Develop\MySite\ConsoleTestApp\bin\Debug\System.Web.Mvc.dll
+C:\Users\ValeriiaS\Desktop\MySite-Develop\MySite\ConsoleTestApp\bin\Debug\System.Web.Optimization.dll
+C:\Users\ValeriiaS\Desktop\MySite-Develop\MySite\ConsoleTestApp\bin\Debug\System.Web.WebPages.dll
+C:\Users\ValeriiaS\Desktop\MySite-Develop\MySite\ConsoleTestApp\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Users\ValeriiaS\Desktop\MySite-Develop\MySite\ConsoleTestApp\bin\Debug\System.Web.Razor.dll
+C:\Users\ValeriiaS\Desktop\MySite-Develop\MySite\ConsoleTestApp\bin\Debug\WebGrease.dll
+C:\Users\ValeriiaS\Desktop\MySite-Develop\MySite\ConsoleTestApp\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Users\ValeriiaS\Desktop\MySite-Develop\MySite\ConsoleTestApp\bin\Debug\Newtonsoft.Json.dll
+C:\Users\ValeriiaS\Desktop\MySite-Develop\MySite\ConsoleTestApp\bin\Debug\Antlr3.Runtime.dll
+C:\Users\ValeriiaS\Desktop\MySite-Develop\MySite\ConsoleTestApp\bin\Debug\ClassLibrary.pdb
+C:\Users\ValeriiaS\Desktop\MySite-Develop\MySite\ConsoleTestApp\bin\Debug\DataGetLibrary.pdb
+C:\Users\ValeriiaS\Desktop\MySite-Develop\MySite\ConsoleTestApp\bin\Debug\MySite.pdb
+C:\Users\ValeriiaS\Desktop\MySite-Develop\MySite\ConsoleTestApp\bin\Debug\EntityFramework.xml
+C:\Users\ValeriiaS\Desktop\MySite-Develop\MySite\ConsoleTestApp\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ValeriiaS\Desktop\MySite-Develop\MySite\ConsoleTestApp\bin\Debug\System.Web.Mvc.xml
+C:\Users\ValeriiaS\Desktop\MySite-Develop\MySite\ConsoleTestApp\bin\Debug\System.Web.Optimization.xml
+C:\Users\ValeriiaS\Desktop\MySite-Develop\MySite\ConsoleTestApp\bin\Debug\System.Web.WebPages.xml
+C:\Users\ValeriiaS\Desktop\MySite-Develop\MySite\ConsoleTestApp\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Users\ValeriiaS\Desktop\MySite-Develop\MySite\ConsoleTestApp\bin\Debug\System.Web.Razor.xml
+C:\Users\ValeriiaS\Desktop\MySite-Develop\MySite\ConsoleTestApp\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Users\ValeriiaS\Desktop\MySite-Develop\MySite\ConsoleTestApp\bin\Debug\Newtonsoft.Json.xml
+C:\Users\ValeriiaS\Desktop\MySite-Develop\MySite\ConsoleTestApp\bin\Debug\Antlr3.Runtime.pdb
+C:\Users\ValeriiaS\Desktop\MySite-Develop\MySite\ConsoleTestApp\obj\Debug\ConsoleTestApp.exe
+C:\Users\ValeriiaS\Desktop\MySite-Develop\MySite\ConsoleTestApp\obj\Debug\ConsoleTestApp.pdb
+D:\Study\Projects\MySite\ConsoleTestApp\bin\Debug\ConsoleTestApp.exe.config
+D:\Study\Projects\MySite\ConsoleTestApp\obj\Debug\ConsoleTestApp.exe
+D:\Study\Projects\MySite\ConsoleTestApp\obj\Debug\ConsoleTestApp.pdb
+D:\Study\Projects\MySite\ConsoleTestApp\bin\Debug\ConsoleTestApp.exe
+D:\Study\Projects\MySite\ConsoleTestApp\bin\Debug\ConsoleTestApp.pdb
+D:\Study\Projects\MySite\ConsoleTestApp\bin\Debug\ClassLibrary.dll
+D:\Study\Projects\MySite\ConsoleTestApp\bin\Debug\DataGetLibrary.dll
+D:\Study\Projects\MySite\ConsoleTestApp\bin\Debug\EntityFramework.dll
+D:\Study\Projects\MySite\ConsoleTestApp\bin\Debug\EntityFramework.SqlServer.dll
+D:\Study\Projects\MySite\ConsoleTestApp\bin\Debug\MySite.dll
+D:\Study\Projects\MySite\ConsoleTestApp\bin\Debug\System.Web.Mvc.dll
+D:\Study\Projects\MySite\ConsoleTestApp\bin\Debug\System.Web.Optimization.dll
+D:\Study\Projects\MySite\ConsoleTestApp\bin\Debug\Newtonsoft.Json.dll
+D:\Study\Projects\MySite\ConsoleTestApp\bin\Debug\System.Web.WebPages.dll
+D:\Study\Projects\MySite\ConsoleTestApp\bin\Debug\System.Web.WebPages.Razor.dll
+D:\Study\Projects\MySite\ConsoleTestApp\bin\Debug\System.Web.Razor.dll
+D:\Study\Projects\MySite\ConsoleTestApp\bin\Debug\WebGrease.dll
+D:\Study\Projects\MySite\ConsoleTestApp\bin\Debug\System.Web.WebPages.Deployment.dll
+D:\Study\Projects\MySite\ConsoleTestApp\bin\Debug\Antlr3.Runtime.dll
+D:\Study\Projects\MySite\ConsoleTestApp\bin\Debug\ClassLibrary.pdb
+D:\Study\Projects\MySite\ConsoleTestApp\bin\Debug\DataGetLibrary.pdb
+D:\Study\Projects\MySite\ConsoleTestApp\bin\Debug\MySite.pdb
+D:\Study\Projects\MySite\ConsoleTestApp\bin\Debug\EntityFramework.xml
+D:\Study\Projects\MySite\ConsoleTestApp\bin\Debug\EntityFramework.SqlServer.xml
+D:\Study\Projects\MySite\ConsoleTestApp\bin\Debug\System.Web.Mvc.xml
+D:\Study\Projects\MySite\ConsoleTestApp\bin\Debug\System.Web.Optimization.xml
+D:\Study\Projects\MySite\ConsoleTestApp\bin\Debug\Newtonsoft.Json.xml
+D:\Study\Projects\MySite\ConsoleTestApp\bin\Debug\System.Web.WebPages.xml
+D:\Study\Projects\MySite\ConsoleTestApp\bin\Debug\System.Web.WebPages.Razor.xml
+D:\Study\Projects\MySite\ConsoleTestApp\bin\Debug\System.Web.Razor.xml
+D:\Study\Projects\MySite\ConsoleTestApp\bin\Debug\System.Web.WebPages.Deployment.xml
+D:\Study\Projects\MySite\ConsoleTestApp\bin\Debug\Antlr3.Runtime.pdb
+D:\Study\Projects\MySite\ConsoleTestApp\obj\Debug\ConsoleTestApp.csprojResolveAssemblyReference.cache

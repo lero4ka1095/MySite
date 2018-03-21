@@ -1,0 +1,70 @@
+﻿@{
+    ViewBag.Title = "Курс валют";
+}
+<div class="jumbotron">
+    <h1>Курс валют</h1>
+    <p class="lead">В данном разделе Вы можете просмотреть курс валют за сегодня</p>
+    <p>@Html.ActionLink("Подробнее »", "Rate", "Home", null, new { @class = "btn btn-primary btn-large" })</p>
+</div>
+<div class="row">
+    <div class="col-md-4">
+        <h2>За дату</h2>
+        @using (Html.BeginForm("DateRate", "Home", FormMethod.Get))
+        {
+            <table>
+                <tr>
+                    <td valign="top"><p>Введите дату</p></td>
+                    <td valign="top"><input type="date" name="Date" value="@DateTime.Today.ToString("yyyy-MM-dd")"/> </td>
+                </tr>
+                <tr>
+                    <td><input type="submit" class="btn btn-default" value="Подробнее &raquo" /></td>
+                    <td></td>
+                </tr>
+            </table>
+        }
+    </div>
+    <div class="col-md-4">
+        <h2>За дату по валютам</h2>
+        @using (Html.BeginForm("CurrencyDateRate", "Home", FormMethod.Get))
+        {
+            <table>
+                <tr>
+                    <td valign="top"><p>Введите дату</p></td>
+                    <td valign="top"><input type="date" name="Date" value="@DateTime.Today.ToString("yyyy-MM-dd")" /> </td>
+                </tr>
+                <tr>
+                    <td valign="top"><p>Выберите валюты </p></td>
+                    <td valign="top">@Html.ListBox("Currencies", ViewBag.mlistCurrencies as MultiSelectList, new { @id = "MultiSelectList" })
+                </tr>
+                <tr>
+                    <td><input type="submit" class="btn btn-default" value="Подробнее &raquo" /></td>
+                    <td></td>
+                </tr>
+            </table>
+        }
+    </div>
+    <div class="col-md-4">
+        <h2>За период дат</h2>
+        @using (Html.BeginForm("CurrencyRate", "Home", FormMethod.Get))
+        {
+            <table>
+                <tr>
+                    <td valign="top"><p>Выберите валюту </p></td>
+                    <td valign="top">@Html.DropDownList("Currency", ViewBag.listCurrencies as SelectList, new { @id = "SelectList" })</td>
+                </tr>
+                <tr>
+                    <td valign="top"><p>Введите начальную дату</p></td>
+                    <td valign="top"><input type="date" name="StartDate" value="@DateTime.Today.AddDays(-1).ToString("yyyy-MM-dd")" /> </td>
+                </tr>
+                <tr>
+                    <td valign="top"><p>Введите конечную дату</p></td>
+                    <td valign="top"><input type="date" name="EndDate" value="@DateTime.Today.ToString("yyyy-MM-dd")" /> </td>
+                </tr>
+                <tr>
+                    <td><input type="submit" class="btn btn-default" value="Подробнее &raquo" /></td>
+                    <td></td>
+                </tr>
+            </table>
+        }
+    </div>
+</div>

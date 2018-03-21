@@ -8,5 +8,35 @@ D:\Study\MySite Project\Git\MySite\DataGetLibrary\bin\Debug\EntityFramework.xml
 D:\Study\MySite Project\Git\MySite\DataGetLibrary\bin\Debug\EntityFramework.SqlServer.xml
 D:\Study\MySite Project\Git\MySite\DataGetLibrary\obj\Debug\DataGetLibrary.dll
 D:\Study\MySite Project\Git\MySite\DataGetLibrary\obj\Debug\DataGetLibrary.pdb
-D:\Study\MySite Project\Git\MySite\DataGetLibrary\bin\Debug\Database.mdf
-D:\Study\MySite Project\Git\MySite\DataGetLibrary\bin\Debug\Database_log.ldf
+C:\Users\ValeriiaS\Desktop\MySite-Develop\MySite\DataGetLibrary\bin\Debug\DataGetLibrary.dll.config
+C:\Users\ValeriiaS\Desktop\MySite-Develop\MySite\DataGetLibrary\bin\Debug\DataGetLibrary.dll
+C:\Users\ValeriiaS\Desktop\MySite-Develop\MySite\DataGetLibrary\bin\Debug\DataGetLibrary.pdb
+C:\Users\ValeriiaS\Desktop\MySite-Develop\MySite\DataGetLibrary\bin\Debug\EntityFramework.dll
+C:\Users\ValeriiaS\Desktop\MySite-Develop\MySite\DataGetLibrary\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ValeriiaS\Desktop\MySite-Develop\MySite\DataGetLibrary\bin\Debug\EntityFramework.xml
+C:\Users\ValeriiaS\Desktop\MySite-Develop\MySite\DataGetLibrary\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ValeriiaS\Desktop\MySite-Develop\MySite\DataGetLibrary\obj\Debug\DataGetLibrary.csprojResolveAssemblyReference.cache
+C:\Users\ValeriiaS\Desktop\MySite-Develop\MySite\DataGetLibrary\obj\Debug\DataGetLibrary.dll
+C:\Users\ValeriiaS\Desktop\MySite-Develop\MySite\DataGetLibrary\obj\Debug\DataGetLibrary.pdb
+D:\MySite-Develop\MySite\DataGetLibrary\bin\Debug\Database.mdf
+D:\MySite-Develop\MySite\DataGetLibrary\bin\Debug\Database_log.ldf
+D:\MySite-Develop\MySite\DataGetLibrary\bin\Debug\DataGetLibrary.dll.config
+D:\MySite-Develop\MySite\DataGetLibrary\bin\Debug\DataGetLibrary.dll
+D:\MySite-Develop\MySite\DataGetLibrary\bin\Debug\DataGetLibrary.pdb
+D:\MySite-Develop\MySite\DataGetLibrary\bin\Debug\EntityFramework.dll
+D:\MySite-Develop\MySite\DataGetLibrary\bin\Debug\EntityFramework.SqlServer.dll
+D:\MySite-Develop\MySite\DataGetLibrary\bin\Debug\EntityFramework.xml
+D:\MySite-Develop\MySite\DataGetLibrary\bin\Debug\EntityFramework.SqlServer.xml
+D:\MySite-Develop\MySite\DataGetLibrary\obj\Debug\DataGetLibrary.csprojResolveAssemblyReference.cache
+D:\MySite-Develop\MySite\DataGetLibrary\obj\Debug\DataGetLibrary.dll
+D:\MySite-Develop\MySite\DataGetLibrary\obj\Debug\DataGetLibrary.pdb
+D:\Study\Projects\MySite\DataGetLibrary\bin\Debug\DataGetLibrary.dll.config
+D:\Study\Projects\MySite\DataGetLibrary\bin\Debug\DataGetLibrary.dll
+D:\Study\Projects\MySite\DataGetLibrary\bin\Debug\DataGetLibrary.pdb
+D:\Study\Projects\MySite\DataGetLibrary\bin\Debug\EntityFramework.dll
+D:\Study\Projects\MySite\DataGetLibrary\bin\Debug\EntityFramework.SqlServer.dll
+D:\Study\Projects\MySite\DataGetLibrary\bin\Debug\EntityFramework.xml
+D:\Study\Projects\MySite\DataGetLibrary\bin\Debug\EntityFramework.SqlServer.xml
+D:\Study\Projects\MySite\DataGetLibrary\obj\Debug\DataGetLibrary.csprojResolveAssemblyReference.cache
+D:\Study\Projects\MySite\DataGetLibrary\obj\Debug\DataGetLibrary.dll
+D:\Study\Projects\MySite\DataGetLibrary\obj\Debug\DataGetLibrary.pdb

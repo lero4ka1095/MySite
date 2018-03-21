@@ -57,6 +57,7 @@
     <Reference Include="System" />
     <Reference Include="System.ComponentModel.DataAnnotations" />
     <Reference Include="System.Core" />
+    <Reference Include="System.Runtime.Serialization" />
     <Reference Include="System.Xml.Linq" />
     <Reference Include="System.Data.DataSetExtensions" />
     <Reference Include="Microsoft.CSharp" />
@@ -65,26 +66,23 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Class1.cs" />
-    <Compile Include="DBaseContext.cs" />
-    <Compile Include="Models\Currency.cs" />
+    <Compile Include="Class\DataPoint.cs" />
+    <Compile Include="Class\Rate.cs" />
+    <Compile Include="Entity\Commentary.cs" />
+    <Compile Include="Entity\Note.cs" />
+    <Compile Include="Entity\User.cs" />
+    <Compile Include="SqlRepository\Currency.cs" />
+    <Compile Include="DatabaseContext.cs" />
+    <Compile Include="IRepository.cs" />
+    <Compile Include="Entity\Currency.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="SqlRepository.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
     <None Include="packages.config" />
   </ItemGroup>
-  <ItemGroup>
-    <Folder Include="Contexts\" />
-  </ItemGroup>
-  <ItemGroup>
-    <Content Include="Database.mdf">
-      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
-    </Content>
-    <Content Include="Database_log.ldf">
-      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
-      <DependentUpon>Database.mdf</DependentUpon>
-    </Content>
-  </ItemGroup>
+  <ItemGroup />
   <ItemGroup>
     <BootstrapperPackage Include="Microsoft.Net.Client.3.5">
       <Visible>False</Visible>

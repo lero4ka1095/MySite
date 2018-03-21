@@ -1,0 +1,54 @@
+﻿@model IEnumerable<DataGetLibrary.Rate>
+<head>
+    @Scripts.Render("~/Scripts/canvasjs.min.js")
+    <title>@ViewBag.Title</title>
+</head>
+<h2>Курс валют за @ViewBag.Date</h2>
+
+<table class="table">
+    <tr>
+        <th>
+            Валюта
+        </th>
+        <th>
+            Курс
+        </th>
+        <th></th>
+    </tr>
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.Currency.CharCodeCurrency)
+            </td>
+            <td>
+                @item.getValue()
+            </td>
+        </tr>
+    }
+</table>
+
+<div id="chartContainer"></div>
+
+<script type="text/javascript">
+
+    window.onload = function () {
+        var chart = new CanvasJS.Chart("chartContainer", {
+            theme: "theme2",
+            animationEnabled: true,
+            title: {
+                text: "Курс валют за дату:"
+            },
+            subtitles: [
+                { text: "@ViewBag.Date" }
+            ],
+            data: [
+            {
+                type: "column",
+                dataPoints: @Html.Raw(ViewBag.DataPoints),
+            }
+            ]
+        });
+        chart.render();
+    };
+</script>

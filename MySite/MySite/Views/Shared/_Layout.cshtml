@@ -6,7 +6,9 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>@ViewBag.Title – приложение ASP.NET</title>
     @Styles.Render("~/Content/css")
+    @Styles.Render("~/Content/Site")
     @Scripts.Render("~/bundles/modernizr")
+    
 </head>
 <body>
     <div class="navbar navbar-inverse navbar-fixed-top">
@@ -23,7 +25,7 @@
                 <ul class="nav navbar-nav">
                     <li>@Html.ActionLink("Домашняя страница", "Index", "Home")</li>
                     <li>@Html.ActionLink("О программе", "About", "Home")</li>
-                    <li>@Html.ActionLink("Курс валют", "Rate", "Home")</li>
+                    <li>@Html.ActionLink("Курс валют", "Rates", "Home")</li>
                 </ul>
             </div>
         </div>
